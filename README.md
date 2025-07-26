@@ -3,7 +3,7 @@
 **TrackTally** is a desktop-based expense tracking application built using Java Swing and MySQL.  
 It allows users to add, view, delete, and export their daily expenses in both PDF and Excel formats.
 
-## 🔧 Features
+## 🚀 Features
 
 - Add daily expenses with Name, Amount, Category, Payment Method, Date & Note
 - Real-time storage in MySQL database via JDBC
@@ -22,7 +22,7 @@ It allows users to add, view, delete, and export their daily expenses in both PD
 - iText 5.5.13.2 (PDF Export)
 - Apache POI (Excel Export)
 
-## 🛠️ How to Run
+## ▶️ How to Run
 
 1. Clone the repo  
 2. Create the `expenses` table in MySQL using the schema provided  
